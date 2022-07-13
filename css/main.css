@@ -185,7 +185,7 @@ li{
 }
 
 .benefits .benefit{
-  width: 400px; 
+  max-width: 400px; 
 }
 
 .benefits .benefit h3{

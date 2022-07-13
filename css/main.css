@@ -244,3 +244,34 @@ li{
   padding: 13.8px 24px;
   text-transform: capitalize;
 }
+
+
+
+/* FOOTER */
+.footer{
+  background: #FFFFFF;
+
+}
+
+.footer .contacts{
+  padding: 25px 0 20px 0;
+  text-align: center;
+}
+
+.footer .contacts img{
+  width: 40px;
+  height: 40px;
+  cursor: pointer;
+  margin: 0 20px;
+}
+
+.footer .contacts img{
+  width: 40px;
+  height: 40px;
+  cursor: pointer;
+  margin: 0 20px;
+}
+
+.footer ul{
+  
+}
